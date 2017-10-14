@@ -1,0 +1,26 @@
+A person wants to go from origin to a particular location, he can move in only 4 directions(i.e East, West, North, South) but his friend gave him a long route, help a person to find minimum Moves so that he can reach to the destination.
+
+Note: You need to print the lexicographically sorted string. Assume the string will have only ‘E’ ‘N’ ‘S’ ‘W’ characters.
+
+Input Format
+
+The first line of input contains an integer T denoting the number of test cases. The first line of each test case is S, S is the long route (string).
+
+Constraints
+
+1 ≤ T ≤ 100 1 ≤ S length ≤ 1000
+
+Output Format
+
+Print minimum Moves so that he can reach to the destination.
+
+Sample Input 0
+
+2
+SSSNEEEW
+NESNWES
+
+Sample Output 0
+
+EESS
+E
