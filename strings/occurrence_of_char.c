@@ -1,4 +1,4 @@
-/* write a recursive function to return the index of first and last occurrence of a character in a string */
+/* write a function to return the index of first and last occurrence of a character in a string */
 #include<stdio.h>
 #include<string.h>
 int first_occur(char *,char);
